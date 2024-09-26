@@ -1,4 +1,3 @@
-ID_REF
 INS
 GAD1
 GAD2
@@ -28,6 +27,3 @@ GZMB
 LTA
 TNF
 IL1A
-Illness
-Age
-Gender
